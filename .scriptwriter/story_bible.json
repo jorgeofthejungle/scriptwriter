@@ -1,0 +1,129 @@
+{
+  "version": "1.0.0",
+  "channel_name": "Oral Documentary Series",
+  "updated_at": "2026-10-24T03:56:01.869359+00:00",
+  "stories": {
+    "98aa0d433fa2f5a3": {
+      "story_id": "STORY-001",
+      "entity_hash": "98aa0d433fa2f5a3",
+      "title": "The Socorro Landing",
+      "aliases": [
+        "Socorro UFO incident",
+        "Lonnie Zamora incident"
+      ],
+      "location": "Socorro, New Mexico",
+      "year": "1964",
+      "primary_witness": "Lonnie Zamora",
+      "status": "COMPLETED",
+      "safe_outcome_verified": true,
+      "safe_outcome_evidence": "Officer Zamora and all witnesses remained completely unharmed.",
+      "archival_depth_beats": 12,
+      "source_urls": [],
+      "dossier_path": null,
+      "script_path": "examples/socorro_1964_zamora.md",
+      "word_count": 3111,
+      "flesch_grade": 6.63,
+      "created_at": "2026-10-24T03:31:22.375200+00:00",
+      "updated_at": "2026-10-24T03:31:22.375200+00:00"
+    },
+    "250050e97c810980": {
+      "story_id": "STORY-002",
+      "entity_hash": "250050e97c810980",
+      "title": "The Kecksburg Incident",
+      "aliases": [
+        "Kecksburg UFO incident",
+        "Pennsylvania Acorn Crash",
+        "Westmoreland Fireball"
+      ],
+      "location": "Kecksburg, Pennsylvania",
+      "year": "1965",
+      "primary_witness": "John Balafoutas",
+      "status": "COMPLETED",
+      "safe_outcome_verified": true,
+      "safe_outcome_evidence": "No deaths, injuries, or property damage occurred. All residents remained physically safe.",
+      "archival_depth_beats": 10,
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Kecksburg_UFO_incident"
+      ],
+      "dossier_path": ".scriptwriter/dossiers/kecksburg_ufo_incident_dossier.json",
+      "script_path": "scripts\\kecksburg_1965_script.md",
+      "word_count": 3115,
+      "flesch_grade": 7.46,
+      "created_at": "2026-10-24T03:31:43.173581+00:00",
+      "updated_at": "2026-10-24T03:56:01.869359+00:00"
+    },
+    "39df2a4b9daa4bb3": {
+      "story_id": "STORY-003",
+      "entity_hash": "39df2a4b9daa4bb3",
+      "title": "The 1976 Tehran Encounter",
+      "aliases": [
+        "1976 Tehran UFO incident",
+        "Imperial Iranian Air Force Jet Intercept"
+      ],
+      "location": "Tehran, Iran",
+      "year": "1976",
+      "primary_witness": "Parviz Jafari",
+      "status": "IN_PIPELINE",
+      "safe_outcome_verified": true,
+      "safe_outcome_evidence": "All pilots, navigators, and ground crews landed safely at Mehrabad Airport with zero injuries.",
+      "archival_depth_beats": 14,
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/1976_Tehran_UFO_incident"
+      ],
+      "dossier_path": ".scriptwriter/dossiers/1976_tehran_ufo_incident_dossier.json",
+      "script_path": null,
+      "word_count": null,
+      "flesch_grade": null,
+      "created_at": "2026-10-24T03:31:45.356347+00:00",
+      "updated_at": "2026-10-24T03:31:45.356347+00:00"
+    },
+    "44d1bc9895fff0e4": {
+      "story_id": "STORY-004",
+      "entity_hash": "44d1bc9895fff0e4",
+      "title": "The Shag Harbour Incident",
+      "aliases": [
+        "Shag Harbour UFO incident",
+        "Nova Scotia Harbor Crash"
+      ],
+      "location": "Shag Harbour, Nova Scotia",
+      "year": "1967",
+      "primary_witness": "Laurie Wickens",
+      "status": "IN_PIPELINE",
+      "safe_outcome_verified": true,
+      "safe_outcome_evidence": "All witnesses and search personnel returned safely with zero injuries or casualties.",
+      "archival_depth_beats": 13,
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident"
+      ],
+      "dossier_path": ".scriptwriter/dossiers/shag_harbour_ufo_incident_dossier.json",
+      "script_path": null,
+      "word_count": null,
+      "flesch_grade": null,
+      "created_at": "2026-10-24T03:32:02.625987+00:00",
+      "updated_at": "2026-10-24T03:32:02.625987+00:00"
+    },
+    "dc777937e849e4ae": {
+      "story_id": "STORY-005",
+      "entity_hash": "dc777937e849e4ae",
+      "title": "The Chiles-Whitted Sighting",
+      "aliases": [
+        "Chiles-Whitted UFO encounter",
+        "Eastern Air Lines Flight 576"
+      ],
+      "location": "Montgomery, Alabama",
+      "year": "1948",
+      "primary_witness": "Clarence Chiles",
+      "status": "REJECTED_SHALLOW",
+      "safe_outcome_verified": false,
+      "safe_outcome_evidence": "",
+      "archival_depth_beats": 5,
+      "source_urls": [],
+      "dossier_path": null,
+      "script_path": null,
+      "word_count": null,
+      "flesch_grade": null,
+      "created_at": "2026-10-24T03:32:03.984844+00:00",
+      "updated_at": "2026-10-24T03:32:03.984844+00:00"
+    }
+  }
+}

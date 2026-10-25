@@ -1,0 +1,22 @@
+{
+  "script_path": "scripts\\kecksburg_1965_script.md",
+  "word_count": 3115,
+  "passes_word_count": true,
+  "estimated_duration_minutes": 20.8,
+  "flesch_kincaid_grade": 7.46,
+  "passes_readability": true,
+  "total_sentences": 262,
+  "avg_sentence_words": 11.9,
+  "sentences_over_cap": 0,
+  "violations": [],
+  "pronunciation_guides_found": [
+    "Kecksburg (KEX-berg)",
+    "Greensburg (GREENZ-berg)",
+    "Paul Koval (KOH-vahl)",
+    "Westmoreland (WEST-mor-lund)",
+    "Bill Bulebush (BOO-luh-bush)",
+    "James Romansky (roh-MAN-skee)",
+    "Kosmos (KOZ-mos)"
+  ],
+  "overall_status": "PASS"
+}

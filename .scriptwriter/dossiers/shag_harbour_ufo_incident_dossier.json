@@ -1,0 +1,318 @@
+{
+  "topic_title": "Shag Harbour UFO incident",
+  "location": "Documented in Article",
+  "location_pronunciation": "[LOCATION-PRONUNCIATION]",
+  "date_range": "Extracted from Records",
+  "pronunciation_guide_map": {
+    "Shag Harbour": "[SHAG HARBOUR-PRONUNCIATION]",
+    "Scotia": "[SCOTIA-PRONUNCIATION]",
+    "Canadian": "[CANADIAN-PRONUNCIATION]",
+    "Canadian Coast": "[CANADIAN COAST-PRONUNCIATION]",
+    "Guard": "[GUARD-PRONUNCIATION]",
+    "Committee": "[COMMITTEE-PRONUNCIATION]",
+    "Canada": "[CANADA-PRONUNCIATION]",
+    "Toronto": "[TORONTO-PRONUNCIATION]",
+    "Saint": "[SAINT-PRONUNCIATION]",
+    "Canada First": "[CANADA FIRST-PRONUNCIATION]",
+    "Officer Robert": "[OFFICER ROBERT-PRONUNCIATION]",
+    "Ralph": "[RALPH-PRONUNCIATION]",
+    "Captain Pierre": "[CAPTAIN PIERRE-PRONUNCIATION]",
+    "Charbonneau": "[CHARBONNEAU-PRONUNCIATION]",
+    "Dorey": "[DOREY-PRONUNCIATION]"
+  },
+  "fact_ledger": [
+    {
+      "id": "W01",
+      "epistemic_tier": "WITNESS_ACCOUNT",
+      "chronology": "October 19",
+      "claim": "The Shag Harbour UFO incident was the reported impact of a large, unknown object into waters near Shag Harbour, Nova Scotia, a small fishing village on the Atlantic coast, on 4 October 1967.",
+      "attributed_to": null,
+      "source_title": "Shag Harbour UFO incident",
+      "source_url": "https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident",
+      "verified": true
+    },
+    {
+      "id": "F02",
+      "epistemic_tier": "DOCUMENTED_FACT",
+      "chronology": "Chronological Sequence",
+      "claim": "The reports were investigated by various Canadian civilian (RCMP and Canadian Coast Guard) and military (Canadian Forces Navy and Air Force) agencies as well as the U.S.",
+      "attributed_to": null,
+      "source_title": "Shag Harbour UFO incident",
+      "source_url": "https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident",
+      "verified": true
+    },
+    {
+      "id": "W03",
+      "epistemic_tier": "WITNESS_ACCOUNT",
+      "chronology": "October 19",
+      "claim": "On the night of 4 October 1967, at about 11:20 pm Atlantic Daylight Time, it was reported that something had crashed into the waters of Shag Harbour.",
+      "attributed_to": null,
+      "source_title": "Shag Harbour UFO incident",
+      "source_url": "https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident",
+      "verified": true
+    },
+    {
+      "id": "W04",
+      "epistemic_tier": "WITNESS_ACCOUNT",
+      "chronology": "Chronological Sequence",
+      "claim": "At least eleven people saw a low-flying lit object head towards the harbour.",
+      "attributed_to": null,
+      "source_title": "Shag Harbour UFO incident",
+      "source_url": "https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident",
+      "verified": true
+    },
+    {
+      "id": "W05",
+      "epistemic_tier": "WITNESS_ACCOUNT",
+      "chronology": "Chronological Sequence",
+      "claim": "Multiple witnesses reported hearing a whistling sound \"like a bomb,\" then a \"whoosh,\" and finally a loud bang.",
+      "attributed_to": null,
+      "source_title": "Shag Harbour UFO incident",
+      "source_url": "https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident",
+      "verified": true
+    },
+    {
+      "id": "F06",
+      "epistemic_tier": "DOCUMENTED_FACT",
+      "chronology": "Chronological Sequence",
+      "claim": "The object was never officially identified, and was therefore referred to as an unidentified flying object (UFO) in Government of Canada documents.",
+      "attributed_to": null,
+      "source_title": "Shag Harbour UFO incident",
+      "source_url": "https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident",
+      "verified": true
+    },
+    {
+      "id": "F07",
+      "epistemic_tier": "DOCUMENTED_FACT",
+      "chronology": "Chronological Sequence",
+      "claim": "The Canadian military became involved in a subsequent rescue/recovery effort.",
+      "attributed_to": null,
+      "source_title": "Shag Harbour UFO incident",
+      "source_url": "https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident",
+      "verified": true
+    },
+    {
+      "id": "F08",
+      "epistemic_tier": "DOCUMENTED_FACT",
+      "chronology": "Chronological Sequence",
+      "claim": "The initial report was made by local resident Laurie Wickens and four of his friends.",
+      "attributed_to": null,
+      "source_title": "Shag Harbour UFO incident",
+      "source_url": "https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident",
+      "verified": true
+    },
+    {
+      "id": "F09",
+      "epistemic_tier": "DOCUMENTED_FACT",
+      "chronology": "Chronological Sequence",
+      "claim": "Driving through Shag Harbour, on Highway 3, they spotted a large object descending into the waters off the harbour.",
+      "attributed_to": null,
+      "source_title": "Shag Harbour UFO incident",
+      "source_url": "https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident",
+      "verified": true
+    },
+    {
+      "id": "W10",
+      "epistemic_tier": "WITNESS_ACCOUNT",
+      "chronology": "Chronological Sequence",
+      "claim": "Attaining a better vantage point, Wickens and his friends saw an object floating 250 to 300 m (820 to 980 ft) offshore in the waters of Shag Harbour.",
+      "attributed_to": null,
+      "source_title": "Shag Harbour UFO incident",
+      "source_url": "https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident",
+      "verified": true
+    },
+    {
+      "id": "W11",
+      "epistemic_tier": "WITNESS_ACCOUNT",
+      "chronology": "Chronological Sequence",
+      "claim": "Wickens contacted the RCMP detachment in Barrington Passage and reported he had seen a large airplane or small airliner crash into the waters off Shag Harbour.",
+      "attributed_to": null,
+      "source_title": "Shag Harbour UFO incident",
+      "source_url": "https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident",
+      "verified": true
+    },
+    {
+      "id": "F12",
+      "epistemic_tier": "DOCUMENTED_FACT",
+      "chronology": "Chronological Sequence",
+      "claim": "Within about 15 minutes, two RCMP officers arrived at the scene, having assumed an aircraft had crashed.",
+      "attributed_to": null,
+      "source_title": "Shag Harbour UFO incident",
+      "source_url": "https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident",
+      "verified": true
+    },
+    {
+      "id": "F13",
+      "epistemic_tier": "DOCUMENTED_FACT",
+      "chronology": "Chronological Sequence",
+      "claim": "Concerned for survivors, the RCMP detachment contacted the Rescue Coordination Centre (RCC) in Halifax to advise them of the situation and ask if any aircraft were missing.",
+      "attributed_to": null,
+      "source_title": "Shag Harbour UFO incident",
+      "source_url": "https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident",
+      "verified": true
+    },
+    {
+      "id": "F14",
+      "epistemic_tier": "DOCUMENTED_FACT",
+      "chronology": "Chronological Sequence",
+      "claim": "Before any attempt at rescue could be made, the flying object, with lights still showing, started to sink and disappeared from view.",
+      "attributed_to": null,
+      "source_title": "Shag Harbour UFO incident",
+      "source_url": "https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident",
+      "verified": true
+    },
+    {
+      "id": "F15",
+      "epistemic_tier": "DOCUMENTED_FACT",
+      "chronology": "Chronological Sequence",
+      "claim": "A rescue mission was quickly assembled.",
+      "attributed_to": null,
+      "source_title": "Shag Harbour UFO incident",
+      "source_url": "https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident",
+      "verified": true
+    },
+    {
+      "id": "F16",
+      "epistemic_tier": "DOCUMENTED_FACT",
+      "chronology": "Chronological Sequence",
+      "claim": "Within half an hour of the crash, local fishing boats went out to the crash site in the waters of the Gulf of Maine off Shag Harbour to look for survivors.",
+      "attributed_to": null,
+      "source_title": "Shag Harbour UFO incident",
+      "source_url": "https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident",
+      "verified": true
+    },
+    {
+      "id": "F17",
+      "epistemic_tier": "DOCUMENTED_FACT",
+      "chronology": "Chronological Sequence",
+      "claim": "No survivors, bodies, or debris were taken, either by the fishermen or by a Canadian Coast Guard search and rescue cutter, which arrived about an hour later from nearby Clark's Harbour.",
+      "attributed_to": null,
+      "source_title": "Shag Harbour UFO incident",
+      "source_url": "https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident",
+      "verified": true
+    },
+    {
+      "id": "F18",
+      "epistemic_tier": "DOCUMENTED_FACT",
+      "chronology": "Chronological Sequence",
+      "claim": "By the next morning, RCC Halifax had determined that no aircraft were missing.",
+      "attributed_to": null,
+      "source_title": "Shag Harbour UFO incident",
+      "source_url": "https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident",
+      "verified": true
+    },
+    {
+      "id": "F19",
+      "epistemic_tier": "DOCUMENTED_FACT",
+      "chronology": "Chronological Sequence",
+      "claim": "While still tasked with the search, the captain of the Canadian Coast Guard cutter received a radio message from RCC Halifax indicating that all commercial, private and military aircraft were accounted for along the eastern seaboard, in both the Atlantic provinces and New England.",
+      "attributed_to": null,
+      "source_title": "Shag Harbour UFO incident",
+      "source_url": "https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident",
+      "verified": true
+    },
+    {
+      "id": "F20",
+      "epistemic_tier": "DOCUMENTED_FACT",
+      "chronology": "Chronological Sequence",
+      "claim": "The same morning, RCC Halifax also sent a priority telex to the \"Air Desk\" at the Royal Canadian Air Force headquarters in Ottawa, which handled all civilian and military UFO sightings, informing them of the crash and that all conventional explanations such as aircraft, flares, etc.",
+      "attributed_to": null,
+      "source_title": "Shag Harbour UFO incident",
+      "source_url": "https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident",
+      "verified": true
+    },
+    {
+      "id": "F21",
+      "epistemic_tier": "DOCUMENTED_FACT",
+      "chronology": "Chronological Sequence",
+      "claim": "Therefore, this was labelled a \"UFO Report\".",
+      "attributed_to": null,
+      "source_title": "Shag Harbour UFO incident",
+      "source_url": "https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident",
+      "verified": true
+    },
+    {
+      "id": "F22",
+      "epistemic_tier": "DOCUMENTED_FACT",
+      "chronology": "Chronological Sequence",
+      "claim": "The head of the Air Desk then sent another priority telex to the Royal Canadian Navy headquarters concerning the \"UFO Report\" and recommended an underwater search be mounted.",
+      "attributed_to": null,
+      "source_title": "Shag Harbour UFO incident",
+      "source_url": "https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident",
+      "verified": true
+    },
+    {
+      "id": "F23",
+      "epistemic_tier": "DOCUMENTED_FACT",
+      "chronology": "Chronological Sequence",
+      "claim": "The Navy, in turn, sent another priority telex tasking Fleet Diving Unit Atlantic with carrying out the search.",
+      "attributed_to": null,
+      "source_title": "Shag Harbour UFO incident",
+      "source_url": "https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident",
+      "verified": true
+    },
+    {
+      "id": "F24",
+      "epistemic_tier": "DOCUMENTED_FACT",
+      "chronology": "Chronological Sequence",
+      "claim": "Two days after the incident had been observed, a detachment of Navy divers from Fleet Diving Unit Atlantic was assembled and for the next three days they combed the seafloor of the Gulf of Maine off Shag Harbour looking for an object.",
+      "attributed_to": null,
+      "source_title": "Shag Harbour UFO incident",
+      "source_url": "https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident",
+      "verified": true
+    },
+    {
+      "id": "F25",
+      "epistemic_tier": "DOCUMENTED_FACT",
+      "chronology": "Chronological Sequence",
+      "claim": "The final report said no trace of an object had been found.",
+      "attributed_to": null,
+      "source_title": "Shag Harbour UFO incident",
+      "source_url": "https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident",
+      "verified": true
+    },
+    {
+      "id": "F26",
+      "epistemic_tier": "DOCUMENTED_FACT",
+      "chronology": "Chronological Sequence",
+      "claim": "The head of the Air Force's \"Air Desk\" in Ottawa, Squadron Leader Bain, who recommended the Navy undertake an underwater search, was also quoted, saying the Air Force was \"very interested\" in the matter.",
+      "attributed_to": null,
+      "source_title": "Shag Harbour UFO incident",
+      "source_url": "https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident",
+      "verified": true
+    },
+    {
+      "id": "F27",
+      "epistemic_tier": "DOCUMENTED_FACT",
+      "chronology": "10:00",
+      "claim": "\"We get hundreds of reports every week, but the Shag Harbour incident is one of the few where we may get something concrete on it.\u201d\nThe article also mentioned UFO reports that immediately preceded the incident, including the above-mentioned one from a woman in Halifax around 10:00 pm.",
+      "attributed_to": null,
+      "source_title": "Shag Harbour UFO incident",
+      "source_url": "https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident",
+      "verified": true
+    },
+    {
+      "id": "W28",
+      "epistemic_tier": "WITNESS_ACCOUNT",
+      "chronology": "Chronological Sequence",
+      "claim": "The Chronicle-Herald ran another story on 9 October titled \"UFO Search Called Off,\" stating that the Navy had ended \"an intensive undersea search for the mysterious unidentified flying object that disappeared into the ocean here Wednesday night.\" As to what was found, the Navy stated, \"Not a trace...",
+      "attributed_to": null,
+      "source_title": "Shag Harbour UFO incident",
+      "source_url": "https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident",
+      "verified": true
+    },
+    {
+      "id": "W29",
+      "epistemic_tier": "WITNESS_ACCOUNT",
+      "chronology": "Chronological Sequence",
+      "claim": "not a bit of anything.\" The story of the search being called off for an alleged \"mysterious dark object\" was also carried by The Canadian Press in other newspapers.",
+      "attributed_to": null,
+      "source_title": "Shag Harbour UFO incident",
+      "source_url": "https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident",
+      "verified": true
+    }
+  ],
+  "primary_sources": [
+    "https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident"
+  ]
+}

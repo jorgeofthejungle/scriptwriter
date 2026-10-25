@@ -1,0 +1,358 @@
+{
+  "topic_title": "Kecksburg UFO incident",
+  "location": "Documented in Article",
+  "location_pronunciation": "[LOCATION-PRONUNCIATION]",
+  "date_range": "Extracted from Records",
+  "pronunciation_guide_map": {
+    "Kecksburg": "[KECKSBURG-PRONUNCIATION]",
+    "Canada": "[CANADA-PRONUNCIATION]",
+    "Detroit": "[DETROIT-PRONUNCIATION]",
+    "Windsor": "[WINDSOR-PRONUNCIATION]",
+    "John Balafoutas": "[JOHN BALAFOUTAS-PRONUNCIATION]",
+    "Soviet": "[SOVIET-PRONUNCIATION]",
+    "Freedom": "[FREEDOM-PRONUNCIATION]",
+    "Kosmos": "[KOSMOS-PRONUNCIATION]",
+    "Roswell": "[ROSWELL-PRONUNCIATION]",
+    "Idaho": "[IDAHO-PRONUNCIATION]",
+    "Virginia": "[VIRGINIA-PRONUNCIATION]",
+    "York": "[YORK-PRONUNCIATION]",
+    "Michigan": "[MICHIGAN-PRONUNCIATION]",
+    "Ohio": "[OHIO-PRONUNCIATION]",
+    "Pittsburgh": "[PITTSBURGH-PRONUNCIATION]"
+  },
+  "fact_ledger": [
+    {
+      "id": "W01",
+      "epistemic_tier": "WITNESS_ACCOUNT",
+      "chronology": "December 9, 1965",
+      "claim": "The Kecksburg UFO incident occurred on December 9, 1965, at Kecksburg, Pennsylvania, United States, when a fireball was reported by citizens of six U.S.",
+      "attributed_to": null,
+      "source_title": "Kecksburg UFO incident",
+      "source_url": "https://en.wikipedia.org/wiki/Kecksburg_UFO_incident",
+      "verified": true
+    },
+    {
+      "id": "F02",
+      "epistemic_tier": "DOCUMENTED_FACT",
+      "chronology": "Chronological Sequence",
+      "claim": "states and Canada over Detroit, Michigan, and Windsor, Ontario.",
+      "attributed_to": null,
+      "source_title": "Kecksburg UFO incident",
+      "source_url": "https://en.wikipedia.org/wiki/Kecksburg_UFO_incident",
+      "verified": true
+    },
+    {
+      "id": "F03",
+      "epistemic_tier": "DOCUMENTED_FACT",
+      "chronology": "Chronological Sequence",
+      "claim": "Astronomer John Balafoutas said it was likely to have been a meteor bolide burning up in the atmosphere and descending at a steep angle.",
+      "attributed_to": null,
+      "source_title": "Kecksburg UFO incident",
+      "source_url": "https://en.wikipedia.org/wiki/Kecksburg_UFO_incident",
+      "verified": true
+    },
+    {
+      "id": "F04",
+      "epistemic_tier": "DOCUMENTED_FACT",
+      "chronology": "2005",
+      "claim": "NASA released a statement in 2005 reporting that experts had examined fragments from the area and determined they were from a Soviet satellite, but those original records were lost in 1987.",
+      "attributed_to": null,
+      "source_title": "Kecksburg UFO incident",
+      "source_url": "https://en.wikipedia.org/wiki/Kecksburg_UFO_incident",
+      "verified": true
+    },
+    {
+      "id": "F05",
+      "epistemic_tier": "DOCUMENTED_FACT",
+      "chronology": "Chronological Sequence",
+      "claim": "NASA responded to court orders and Freedom of Information Act requests to search for the records.",
+      "attributed_to": null,
+      "source_title": "Kecksburg UFO incident",
+      "source_url": "https://en.wikipedia.org/wiki/Kecksburg_UFO_incident",
+      "verified": true
+    },
+    {
+      "id": "F06",
+      "epistemic_tier": "DOCUMENTED_FACT",
+      "chronology": "Chronological Sequence",
+      "claim": "The incident gained wide notoriety in popular culture and ufology, with speculation ranging from extraterrestrial craft to debris from the Soviet space probe Kosmos 96, and is often called \"Pennsylvania's Roswell\".",
+      "attributed_to": null,
+      "source_title": "Kecksburg UFO incident",
+      "source_url": "https://en.wikipedia.org/wiki/Kecksburg_UFO_incident",
+      "verified": true
+    },
+    {
+      "id": "W07",
+      "epistemic_tier": "WITNESS_ACCOUNT",
+      "chronology": "Chronological Sequence",
+      "claim": "An early article in the Greensburg Tribune-Review stated the following: The area where the object landed was immediately sealed off on the order of U.S.",
+      "attributed_to": null,
+      "source_title": "Kecksburg UFO incident",
+      "source_url": "https://en.wikipedia.org/wiki/Kecksburg_UFO_incident",
+      "verified": true
+    },
+    {
+      "id": "F08",
+      "epistemic_tier": "DOCUMENTED_FACT",
+      "chronology": "Chronological Sequence",
+      "claim": "Army and State Police officials, in anticipation of a \"close inspection\" of whatever may have fallen ...",
+      "attributed_to": null,
+      "source_title": "Kecksburg UFO incident",
+      "source_url": "https://en.wikipedia.org/wiki/Kecksburg_UFO_incident",
+      "verified": true
+    },
+    {
+      "id": "F09",
+      "epistemic_tier": "DOCUMENTED_FACT",
+      "chronology": "Chronological Sequence",
+      "claim": "State Police officials there ordered the area roped off to await the expected arrival of both U.S.",
+      "attributed_to": null,
+      "source_title": "Kecksburg UFO incident",
+      "source_url": "https://en.wikipedia.org/wiki/Kecksburg_UFO_incident",
+      "verified": true
+    },
+    {
+      "id": "F10",
+      "epistemic_tier": "DOCUMENTED_FACT",
+      "chronology": "Chronological Sequence",
+      "claim": "Army engineers and possibly, civilian scientists.",
+      "attributed_to": null,
+      "source_title": "Kecksburg UFO incident",
+      "source_url": "https://en.wikipedia.org/wiki/Kecksburg_UFO_incident",
+      "verified": true
+    },
+    {
+      "id": "F11",
+      "epistemic_tier": "DOCUMENTED_FACT",
+      "chronology": "Chronological Sequence",
+      "claim": "When state troopers and Air Force personnel searched the woods, they found \"absolutely nothing\".",
+      "attributed_to": null,
+      "source_title": "Kecksburg UFO incident",
+      "source_url": "https://en.wikipedia.org/wiki/Kecksburg_UFO_incident",
+      "verified": true
+    },
+    {
+      "id": "F12",
+      "epistemic_tier": "DOCUMENTED_FACT",
+      "chronology": "Chronological Sequence",
+      "claim": "A subsequent edition in the Tribune-Review bore the headline \"Searchers Fail to Find Object\".",
+      "attributed_to": null,
+      "source_title": "Kecksburg UFO incident",
+      "source_url": "https://en.wikipedia.org/wiki/Kecksburg_UFO_incident",
+      "verified": true
+    },
+    {
+      "id": "F13",
+      "epistemic_tier": "DOCUMENTED_FACT",
+      "chronology": "Chronological Sequence",
+      "claim": "Authorities discounted proposed explanations such as a plane crash, errant missile test, or reentering satellite debris and generally assumed it to be a meteor.",
+      "attributed_to": null,
+      "source_title": "Kecksburg UFO incident",
+      "source_url": "https://en.wikipedia.org/wiki/Kecksburg_UFO_incident",
+      "verified": true
+    },
+    {
+      "id": "F14",
+      "epistemic_tier": "DOCUMENTED_FACT",
+      "chronology": "Chronological Sequence",
+      "claim": "Astronomer Paul Annear said the fireball was likely to have been a meteor entering the Earth's atmosphere.",
+      "attributed_to": null,
+      "source_title": "Kecksburg UFO incident",
+      "source_url": "https://en.wikipedia.org/wiki/Kecksburg_UFO_incident",
+      "verified": true
+    },
+    {
+      "id": "F15",
+      "epistemic_tier": "DOCUMENTED_FACT",
+      "chronology": "Chronological Sequence",
+      "claim": "Geophysicist George Wetherill discounted speculations that it was debris from a satellite and agreed that the reports were probably due to a meteor.",
+      "attributed_to": null,
+      "source_title": "Kecksburg UFO incident",
+      "source_url": "https://en.wikipedia.org/wiki/Kecksburg_UFO_incident",
+      "verified": true
+    },
+    {
+      "id": "F16",
+      "epistemic_tier": "DOCUMENTED_FACT",
+      "chronology": "Chronological Sequence",
+      "claim": "Bidelman and Fred Hess said it undoubtedly was a meteor bolide.",
+      "attributed_to": null,
+      "source_title": "Kecksburg UFO incident",
+      "source_url": "https://en.wikipedia.org/wiki/Kecksburg_UFO_incident",
+      "verified": true
+    },
+    {
+      "id": "W17",
+      "epistemic_tier": "WITNESS_ACCOUNT",
+      "chronology": "Chronological Sequence",
+      "claim": "A spokesman for the Department of Defense in Washington said first reports indicated the reported fireball was a natural phenomenon.",
+      "attributed_to": null,
+      "source_title": "Kecksburg UFO incident",
+      "source_url": "https://en.wikipedia.org/wiki/Kecksburg_UFO_incident",
+      "verified": true
+    },
+    {
+      "id": "W18",
+      "epistemic_tier": "WITNESS_ACCOUNT",
+      "chronology": "February 19",
+      "claim": "The February 1966 issue of Sky & Telescope reported that the fireball was seen over the Detroit-Windsor area at about 4:44 p.m.",
+      "attributed_to": null,
+      "source_title": "Kecksburg UFO incident",
+      "source_url": "https://en.wikipedia.org/wiki/Kecksburg_UFO_incident",
+      "verified": true
+    },
+    {
+      "id": "F19",
+      "epistemic_tier": "DOCUMENTED_FACT",
+      "chronology": "4:44",
+      "claim": "The Federal Aviation Administration received 23 reports from aircraft pilots, starting at 4:44 p.m.",
+      "attributed_to": null,
+      "source_title": "Kecksburg UFO incident",
+      "source_url": "https://en.wikipedia.org/wiki/Kecksburg_UFO_incident",
+      "verified": true
+    },
+    {
+      "id": "F20",
+      "epistemic_tier": "DOCUMENTED_FACT",
+      "chronology": "Chronological Sequence",
+      "claim": "A seismograph 25 miles (40 km) southwest of Detroit recorded shock waves created by the fireball as it passed through the atmosphere.",
+      "attributed_to": null,
+      "source_title": "Kecksburg UFO incident",
+      "source_url": "https://en.wikipedia.org/wiki/Kecksburg_UFO_incident",
+      "verified": true
+    },
+    {
+      "id": "S21",
+      "epistemic_tier": "SPECULATION",
+      "chronology": "Chronological Sequence",
+      "claim": "The Sky & Telescope article concluded that \"the path of the fireball extended roughly from northwest to southeast\" and ended \"in or near the western part of Lake Erie\".",
+      "attributed_to": null,
+      "source_title": "Kecksburg UFO incident",
+      "source_url": "https://en.wikipedia.org/wiki/Kecksburg_UFO_incident",
+      "verified": true
+    },
+    {
+      "id": "F22",
+      "epistemic_tier": "DOCUMENTED_FACT",
+      "chronology": "Chronological Sequence",
+      "claim": "Several articles were written about the fireball in science journals.",
+      "attributed_to": null,
+      "source_title": "Kecksburg UFO incident",
+      "source_url": "https://en.wikipedia.org/wiki/Kecksburg_UFO_incident",
+      "verified": true
+    },
+    {
+      "id": "F23",
+      "epistemic_tier": "DOCUMENTED_FACT",
+      "chronology": "1967",
+      "claim": "A 1967 article by two astronomers in the Journal of the Royal Astronomical Society of Canada (JRASC) used the seismographic record to pinpoint the time of passage over the Detroit area to 4:43 p.m.",
+      "attributed_to": null,
+      "source_title": "Kecksburg UFO incident",
+      "source_url": "https://en.wikipedia.org/wiki/Kecksburg_UFO_incident",
+      "verified": true
+    },
+    {
+      "id": "F24",
+      "epistemic_tier": "DOCUMENTED_FACT",
+      "chronology": "Chronological Sequence",
+      "claim": "In addition, they used photographs of the trail taken north of Detroit at two different locations to triangulate the trajectory of the object.",
+      "attributed_to": null,
+      "source_title": "Kecksburg UFO incident",
+      "source_url": "https://en.wikipedia.org/wiki/Kecksburg_UFO_incident",
+      "verified": true
+    },
+    {
+      "id": "S25",
+      "epistemic_tier": "SPECULATION",
+      "chronology": "Chronological Sequence",
+      "claim": "They concluded that the fireball was descending at a steep angle, moving from the southwest to the northeast, and likely impacted on the northwestern shore of Lake Erie near Windsor, Ontario.",
+      "attributed_to": null,
+      "source_title": "Kecksburg UFO incident",
+      "source_url": "https://en.wikipedia.org/wiki/Kecksburg_UFO_incident",
+      "verified": true
+    },
+    {
+      "id": "F26",
+      "epistemic_tier": "DOCUMENTED_FACT",
+      "chronology": "Chronological Sequence",
+      "claim": "According to John Ventre of MUFON and Shafton native Owen Eichler, their recent investigations have led them to speculate the object that reportedly landed in Kecksburg was \"a General Electric Mark 2 Re-entry Vehicle that had been launched by the Air Force as a spy satellite, but fell out of orbit\"; however, \"we need confirmation from NASA or the Air Force\".",
+      "attributed_to": null,
+      "source_title": "Kecksburg UFO incident",
+      "source_url": "https://en.wikipedia.org/wiki/Kecksburg_UFO_incident",
+      "verified": true
+    },
+    {
+      "id": "F27",
+      "epistemic_tier": "DOCUMENTED_FACT",
+      "chronology": "Chronological Sequence",
+      "claim": "More recent comments by NASA are less supportive of a link to a Soviet satellite:",
+      "attributed_to": null,
+      "source_title": "Kecksburg UFO incident",
+      "source_url": "https://en.wikipedia.org/wiki/Kecksburg_UFO_incident",
+      "verified": true
+    },
+    {
+      "id": "F28",
+      "epistemic_tier": "DOCUMENTED_FACT",
+      "chronology": "4:43",
+      "claim": "There is some speculation that the reentry of the Cosmos 96/Venera-type spacecraft was responsible for a fireball which was seen over southwestern Ontario, Canada and at least eight states from Michigan to New York at 4:43 p.m.",
+      "attributed_to": null,
+      "source_title": "Kecksburg UFO incident",
+      "source_url": "https://en.wikipedia.org/wiki/Kecksburg_UFO_incident",
+      "verified": true
+    },
+    {
+      "id": "F29",
+      "epistemic_tier": "DOCUMENTED_FACT",
+      "chronology": "21:43",
+      "claim": "EST (21:43 UT) on 9 December 1965.",
+      "attributed_to": null,
+      "source_title": "Kecksburg UFO incident",
+      "source_url": "https://en.wikipedia.org/wiki/Kecksburg_UFO_incident",
+      "verified": true
+    },
+    {
+      "id": "F30",
+      "epistemic_tier": "DOCUMENTED_FACT",
+      "chronology": "Chronological Sequence",
+      "claim": "Investigations of photographs and sightings of the fireball indicated its path through the atmosphere was probably too steep to be consistent with a spacecraft re-entering from Earth orbit and was more likely a meteor in a prograde orbit from the vicinity of the asteroid belt, and probably ended its flight over western Lake Erie.",
+      "attributed_to": null,
+      "source_title": "Kecksburg UFO incident",
+      "source_url": "https://en.wikipedia.org/wiki/Kecksburg_UFO_incident",
+      "verified": true
+    },
+    {
+      "id": "F31",
+      "epistemic_tier": "DOCUMENTED_FACT",
+      "chronology": "21:43",
+      "claim": "Air Force tracking data on Cosmos 96 also indicate the spacecraft orbit decayed earlier than 21:43 UT on 9 December.",
+      "attributed_to": null,
+      "source_title": "Kecksburg UFO incident",
+      "source_url": "https://en.wikipedia.org/wiki/Kecksburg_UFO_incident",
+      "verified": true
+    },
+    {
+      "id": "F32",
+      "epistemic_tier": "DOCUMENTED_FACT",
+      "chronology": "Chronological Sequence",
+      "claim": "Other analyses of the spacecraft orbit definitively indicate it could not have been the Cosmos 96 spacecraft.",
+      "attributed_to": null,
+      "source_title": "Kecksburg UFO incident",
+      "source_url": "https://en.wikipedia.org/wiki/Kecksburg_UFO_incident",
+      "verified": true
+    },
+    {
+      "id": "F33",
+      "epistemic_tier": "DOCUMENTED_FACT",
+      "chronology": "4:46",
+      "claim": "Some unconfirmed reports state the fireball subsequently landed in Pennsylvania southeast of Pittsburgh near the town of Kecksburg (40.2 N, 79.5 W) at 4:46 p.m.",
+      "attributed_to": null,
+      "source_title": "Kecksburg UFO incident",
+      "source_url": "https://en.wikipedia.org/wiki/Kecksburg_UFO_incident",
+      "verified": true
+    }
+  ],
+  "primary_sources": [
+    "https://en.wikipedia.org/wiki/Kecksburg_UFO_incident"
+  ]
+}
